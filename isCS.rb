@@ -10,6 +10,3 @@ def is_cs(word)
   end
 end
 
-# Пример использования
-# is_cs("RubyCS")
-# is_cs("Ruby")
